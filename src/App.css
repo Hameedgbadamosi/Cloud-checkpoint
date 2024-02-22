@@ -1,0 +1,15 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.App {
+  width: 100vw;
+  height: 100vh;
+}
+
+#map {
+  height: 500px;
+  width: 500px;
+  overflow: hidden;
+}
