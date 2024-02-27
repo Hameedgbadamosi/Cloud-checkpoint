@@ -20,4 +20,4 @@ function LocationPin() {
   );
 }
 
-export default LocationPin;
+export default LocationPin; 
